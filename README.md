@@ -1,4 +1,4 @@
-# scheduleBot
+# schedule-bot
 Discord bot designed to help students manage schedules, grades, and daily reminders
 
 Avaliable bot commands as of this moment:
